@@ -1,0 +1,6 @@
+[submodule "Java"]
+	path = Java
+	url = https://github.com/srinuadp/Java
+[submodule "project1"]
+	path = project1
+	url = https://github.com/srinuadp/Java
